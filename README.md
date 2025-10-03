@@ -21,17 +21,6 @@
 - email_2: elargunowa@yandex.ru
 
 ### 💻 Data Science проекты
-1. [Очиста данных по недвижемости в Москве и области ](https://github.com/leno4eks/DATACLEANINGPROJECT) - Проект по очистке данных о квартирах в Москве и Московской области.
-2. [Первоначальный анализ резюме с HeadHunter](https://github.com/leno4eks/PROJECT-1) - Отрабатываем основные этапы работы с данными на примере датасета о резюме
-3. [Детальный анализ резюме с HeadHunter](https://github.com/leno4eks/PROJECT-2) - Проводим более детальный анализ на примере данный с датасета о резюме
-4. [Проект по поиску пиков посещений клиентов в фитнес клубе](https://github.com/leno4eks/Portfolio_Sakhno_E_S/tree/master/project_upload_club) - Проект по поиску пиков посещений клиентов в фитнес клубе за 2 года по сезонам
-5. [Проект по статистическим иледованиям данных страховой компании](https://github.com/leno4eks/Portfolio_Sakhno_E_S/tree/master/EDA_PRACTICE) - Проект по анализу основных факторов влияют на зарплату специалиста Data Scientist.
-
-
-### 🏆 Достижения
-
-
-### 💻 Data Science Проекты
 
 #### 🏠 [Очиста данных по недвижемости в Москве и области ](https://github.com/leno4eks/DATACLEANINGPROJECT)
 - **Задача:** Подготовка данных о квартирах для последующего анализа
