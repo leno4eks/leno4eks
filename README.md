@@ -8,7 +8,6 @@
 - **Анализ данных:** Pandas, NumPy, SciPy
 - **Визуализация:** Matplotlib, Seaborn, Plotly
 - **Машинное обучение:** Scikit-learn, TensorFlow, PyTorch
-- **Обработка естественного языка:** NLTK, spaCy
 - **Инструменты:** Jupyter Notebook, Git, VS Code, Tableau
 - **Изучаю:** Deep Learning, Computer Vision, Big Data technologies
 
